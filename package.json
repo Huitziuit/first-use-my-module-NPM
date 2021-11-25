@@ -1,0 +1,17 @@
+{
+  "name": "use-module-from-huitziuit",
+  "version": "1.0.0",
+  "description": "use my first module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Erick Huitziuit",
+  "license": "ISC",
+  "dependencies": {
+    "hello-word-huitziuit-npm": "^1.0.0"
+  }
+}
